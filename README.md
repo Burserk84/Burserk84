@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧑I'm Amirali Sharifi Asl<br>💻I'm a Full-Stack Developer<br>📚I'm studying for a Bachelor of Computer Science at Semnan University<br>🔭 I’m currently working on Blogging-website<br>🌱 I’m currently learning NodeJs
+🧑I'm Amirali Sharifi Asl<br>💻I'm a Full-Stack Developer<br>📚I'm studying for a Bachelor of Computer Science at Semnan University<br>🔭 I’m currently working on my website<br>🌱 I’m currently learning Nest.js
 
 
 ## 🌐 Socials:
