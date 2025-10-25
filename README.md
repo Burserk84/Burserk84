@@ -1,24 +1,84 @@
-## Hi there 👋
+# 👋 Hey, I'm Amirali Sharifi Asl
 
-# 💫 About Me:
-🧑I'm Amirali Sharifi Asl<br>💻I'm a Full-Stack Developer<br>📚I'm studying for a Bachelor of Computer Science at Semnan University<br>🔭 I’m currently working on my website<br>🌱 I’m currently learning Nest.js
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirali_sharifi_asl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amirali-sharifiasl-911a46287) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Burserk84&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Burserk84&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+🚀 **Full-Stack Developer | B.Sc. Computer Science @ Semnan University**  
+💻 Passionate about building scalable, real-time, and user-focused web applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Burserk84&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+I’m a **results-driven Full-Stack Developer** with 4 years of hands-on experience designing, developing, and deploying modern web applications.  
+My focus is on creating efficient, maintainable, and beautifully designed digital solutions powered by **TypeScript**, **Next.js**, and **Node.js**.
+
+Currently, I’m exploring:
+- ⚙️ **Nest.js** & **backend scalability**
+- 🧩 **System design & testing workflows**
+- 🧠 **Developer experience and productivity tooling**
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**  
+TypeScript · React · Next.js (App Router) · Tailwind CSS · Framer Motion · Socket.IO Client · React Hook Form · Zod  
+
+**Backend**  
+Node.js · Express.js · TypeScript · Prisma · Socket.IO · JWT Authentication  
+
+**Databases**  
+PostgreSQL · MySQL  
+
+**Tools & Testing**  
+Git · GitHub · Jest · React Testing Library · Cypress · Linux · NixOS  
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 [AuraSync](https://github.com/Burserk84/aura-sync)
+**Full-Stack Project Management App**  
+> Built with Next.js, Node.js, PostgreSQL, Prisma, Socket.IO, and Tailwind CSS  
+- Real-time collaboration with live chat and synchronized task updates  
+- Secure JWT authentication with role-based permissions  
+- Interactive Kanban board with drag-and-drop task management  
+
+#### 🌐 [sharifiasldev.ir](https://sharifiasldev.ir)
+**Headless Portfolio & E-Commerce Platform**  
+> Next.js 14 (App Router) · TypeScript · Strapi · NextAuth.js  
+- Migrated from WordPress to a headless CMS architecture  
+- Dynamic content management for blog, portfolio, and store  
+- User authentication and personalized dashboards  
+
+#### 💎 [Devora](https://github.com/Burserk84/devora)
+**Responsive Multilingual Landing Page**  
+> Next.js · TypeScript · Framer Motion · Tailwind CSS  
+- Fully responsive design with smooth motion animations  
+- Custom i18n (internationalization) for multiple languages  
+- Focused on accessibility and UX performance  
+
+---
+
+### 📊 GitHub Stats
+
+![Amirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burserk84&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burserk84&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirali-sharifi-asl)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Burserk84)
+[![Website](https://img.shields.io/badge/Website-000000.svg?style=flat&logo=vercel&logoColor=white)](https://sharifiasldev.ir)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:sharifiasldev@gmail.com)
+
+---
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman  
+>  
+> ![](https://visitcount.itsvg.in/api?id=Burserk84&icon=10&color=0)
