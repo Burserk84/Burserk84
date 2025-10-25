@@ -35,7 +35,7 @@ Git · GitHub · Jest · React Testing Library · Cypress · Linux · NixOS
 
 ### 🚀 Featured Projects
 
-#### 🧠 [AuraSync](https://github.com/Burserk84/aura-sync)
+#### 🧠 [AuraSync](https://app.devorastudio.ir)
 **Full-Stack Project Management App**  
 > Built with Next.js, Node.js, PostgreSQL, Prisma, Socket.IO, and Tailwind CSS  
 - Real-time collaboration with live chat and synchronized task updates  
@@ -49,7 +49,7 @@ Git · GitHub · Jest · React Testing Library · Cypress · Linux · NixOS
 - Dynamic content management for blog, portfolio, and store  
 - User authentication and personalized dashboards  
 
-#### 💎 [Devora](https://github.com/Burserk84/devora)
+#### 💎 [Devora](https://devorastudio.ir)
 **Responsive Multilingual Landing Page**  
 > Next.js · TypeScript · Framer Motion · Tailwind CSS  
 - Fully responsive design with smooth motion animations  
